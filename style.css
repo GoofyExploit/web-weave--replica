@@ -9,7 +9,6 @@
 
 body {
     overflow-x: hidden;
-    height: 100px;
 }
 
 .mountain {
@@ -255,10 +254,11 @@ footer {
     padding-right: 3rem;
     flex-wrap: wrap;
     position: relative;
-    bottom: 850px;
+    bottom: 550px;
     width: 95vw;
     left: 30px;
     border-radius: 20px;
+
 }
 
 .footer-left {
@@ -286,7 +286,6 @@ footer {
     width: 100px;
     height: auto;
     margin-bottom: 1rem;
-    /* Adds space between the image and the links */
 }
 
 .footer-text {
